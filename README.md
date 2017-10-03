@@ -54,3 +54,5 @@ Size by % of page:
 Size by pixel number:
 
 <IMG SRC="2015-AEM-SMALL.gif" WIDTH=66></IMG>
+
+![Different image test](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bobtail_squid.jpg/250px-Bobtail_squid.jpg)
