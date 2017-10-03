@@ -36,3 +36,9 @@ HLB3984 | Ampicillin
 H<sub>2</sub>O
 
 E = MC<sup>2</sup>
+
+## Importing text from Benchling test
+
+Just want to test if this works.
+
+I can write like this test testing  testing some more
