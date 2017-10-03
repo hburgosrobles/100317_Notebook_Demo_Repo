@@ -32,3 +32,7 @@ Strain | Antibiotic resistance
 :---: | :--------:
 MJM6475 | Made up strain
 HLB3984 | Ampicillin
+
+H<sub>2</sub>O
+
+E = MC<sup>2</sup>
