@@ -42,3 +42,15 @@ E = MC<sup>2</sup>
 Just want to test if this works.
 
 I can write like this test testing  testing some more
+
+![AEM cover](2015-AEM-SMALL.gif)
+
+Changing the size of an image?
+
+Size by % of page:
+
+<IMG SRC="2015-AEM-SMALL.gif" WIDTH=50%></IMG>
+
+Size by pixel number:
+
+<IMG SRC="2015-AEM-SMALL.gif" WIDTH=66></IMG>
